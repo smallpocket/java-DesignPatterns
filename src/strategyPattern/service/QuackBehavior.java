@@ -1,4 +1,4 @@
-package main.principle2.behave;
+package strategyPattern.service;
 
 /**
  * @Author : Hyper

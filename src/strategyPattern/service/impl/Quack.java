@@ -1,6 +1,6 @@
-package main.principle2.behave.impl;
+package strategyPattern.service.impl;
 
-import main.principle2.behave.QuackBehavior;
+import strategyPattern.service.QuackBehavior;
 
 /**
  * @Author : Hyper

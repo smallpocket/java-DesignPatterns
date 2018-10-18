@@ -1,4 +1,4 @@
-package main.principle2.entity;
+package strategyPattern.entity;
 
 /**
  * @Author : Hyper

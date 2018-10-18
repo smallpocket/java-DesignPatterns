@@ -1,7 +1,7 @@
-package main.principle2.test;
+package strategyPattern.test;
 
-import main.principle2.entity.Duck;
-import main.principle2.entity.MarrardDuck;
+import strategyPattern.entity.Duck;
+import strategyPattern.entity.MarrardDuck;
 
 /**
  * @Author : Hyper

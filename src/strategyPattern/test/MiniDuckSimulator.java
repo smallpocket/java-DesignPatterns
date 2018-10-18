@@ -1,8 +1,8 @@
-package main.principle2.test;
+package strategyPattern.test;
 
-import main.principle2.behave.impl.FlyRocketPowered;
-import main.principle2.entity.Duck;
-import main.principle2.entity.ModuleDuck;
+import strategyPattern.entity.Duck;
+import strategyPattern.entity.ModuleDuck;
+import strategyPattern.service.impl.FlyRocketPowered;
 
 /**
  * 动态地改变鸭子的飞行模式

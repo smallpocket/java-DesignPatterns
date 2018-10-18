@@ -1,7 +1,7 @@
-package main.principle2.entity;
+package strategyPattern.entity;
 
-import main.principle2.behave.FlyBehavior;
-import main.principle2.behave.QuackBehavior;
+import strategyPattern.service.FlyBehavior;
+import strategyPattern.service.QuackBehavior;
 
 /**
  * @Author : Hyper

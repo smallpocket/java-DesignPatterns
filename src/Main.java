@@ -1,5 +1,3 @@
-package main;
-
 /**
  * HeadFirst 设计模式的学习代码
  * @author : Heper

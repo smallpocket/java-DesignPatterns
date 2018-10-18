@@ -1,7 +1,7 @@
-package main.principle2.entity;
+package strategyPattern.entity;
 
-import main.principle2.behave.impl.FlyWithWings;
-import main.principle2.behave.impl.Quack;
+import strategyPattern.service.impl.FlyWithWings;
+import strategyPattern.service.impl.Quack;
 
 /**
  * @Author : Hyper

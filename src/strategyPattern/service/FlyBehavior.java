@@ -1,4 +1,4 @@
-package main.principle2.behave;
+package strategyPattern.service;
 
 /**
  * 抽离飞行的动作,制作接口

@@ -1,6 +1,6 @@
-package main.principle2.behave.impl;
+package strategyPattern.service.impl;
 
-import main.principle2.behave.FlyBehavior;
+import strategyPattern.service.FlyBehavior;
 
 /**
  * 实现飞行的动作
